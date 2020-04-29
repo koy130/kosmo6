@@ -4,9 +4,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>메인 페이지</title>
+<title>Login.jsp</title>
 </head>
 <body>
-<h2>메페이지</h2>
+
 </body>
 </html>

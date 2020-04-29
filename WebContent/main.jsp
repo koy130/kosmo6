@@ -7,6 +7,6 @@
 <title>메인 페이지</title>
 </head>
 <body>
-<h2>메인페이지</h2>
+<h2>메페이지asd</h2>
 </body>
 </html>
